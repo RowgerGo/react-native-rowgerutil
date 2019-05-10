@@ -1,0 +1,15 @@
+{
+  "name": "react-native-rowgerutil",
+  "version": "1.0.0",
+  "description": "Rowger的第一个rn组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RowgerGo/react-native-rowgerutil.git"
+  },
+  "author": "Rowger",
+  "license": "ISC"
+}
